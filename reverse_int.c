@@ -1,4 +1,3 @@
-#include "reverse_int.h"
 #include <math.h>
 
 int reverse_int(int n)
